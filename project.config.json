@@ -1,0 +1,12 @@
+{
+    "setting": {
+        "es6": true,
+        "minified": false,
+        "mockUpdate": false,
+        "newFeature": false,
+        "postcss": false,
+        "urlCheck": false
+    },
+    "appid": "testAppId",
+    "projectname": "small start"
+}
